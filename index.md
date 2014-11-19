@@ -4,7 +4,7 @@
 
 * [about](#about)
 * [atscript](#atscript)
-* [Dependency Injection](#depenency-injection)
+* [Dependency Injection](#dependency-injection)
   * [Annotations](#annotations)
   * [Instance-scope](#instance-scope)
   * [Child-injectors](#child-injectors)
