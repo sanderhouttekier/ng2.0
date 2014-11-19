@@ -298,4 +298,11 @@ one of the reasons for the current binding syntax:
   * canDeactivate / deactivate
 * Design - pluggable, can add extra 'middleware' as it were,... (ex. authentication)
 
-<div style="height: 100vh!important; background: red!important" >DISCUSS!</div>
+---
+
+remember, it's all WIP
+
+---
+
+
+# DISCUSS!
